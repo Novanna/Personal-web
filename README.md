@@ -1,5 +1,5 @@
 # Personal-web
 ## Personal Card Name Preview
-<img src="Asset/img/card-name.PNG"></img>
+<img src="Assets/images/card-name.PNG"></img>
 ## Teams Card Name Preview
-<img src="Asset/img/Team-cardname.jpeg"></img>
+<img src="Assets/images/Team-cardname.jpeg"></img>
